@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "knex": "^0.95.4",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "objection": "^2.2.15",
+    "sqlite3": "^5.0.2"
+  }
+}
